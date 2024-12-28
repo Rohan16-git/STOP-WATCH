@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: left;
+    padding: 20px;
+    background-image:url(./image/stopwatch-img.jpg);
+  }
+  .stopwatch {
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  button {
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 1rem;
+    cursor: pointer;
+    border: 100px;
+    border-radius: 5px;
+    color: white;
+    background-color: black;
+  
+  }
+
+  .b1:hover {
+    background-color:green ;
+  }
+  .b2:hover{
+    background-color:red ;
+  }
+  .b3:hover{
+    background-color:cyan ;
+  }
+ 
